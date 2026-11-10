@@ -1,0 +1,14 @@
+{
+  "name": "消費税法 理論道場",
+  "short_name": "理論道場",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F7F6F1",
+  "theme_color": "#2E4C8C",
+  "lang": "ja",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
